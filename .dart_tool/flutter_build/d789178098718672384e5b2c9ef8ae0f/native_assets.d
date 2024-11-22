@@ -1,0 +1,1 @@
+ D:\\abdel\\learning\\api-mini-project\\.dart_tool\\flutter_build\\d789178098718672384e5b2c9ef8ae0f\\native_assets.yaml: 
